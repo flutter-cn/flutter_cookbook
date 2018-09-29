@@ -1,8 +1,5 @@
 # stateful_communication
 
-StatefulWidget之间通信
+StatefulWidget Communication
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![gif](https://github.com/flutter-cn/flutter_cookbook/blob/master/stateful_communication/gif/20180929_223928.gif).
