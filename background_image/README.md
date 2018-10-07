@@ -2,7 +2,5 @@
 
 A new Flutter application to show how to implement background image
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![background image](https://github.com/flutter-cn/flutter_cookbook/blob/master/background_image/images/1.jpg)
