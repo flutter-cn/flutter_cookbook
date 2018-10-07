@@ -34,3 +34,12 @@ RichText实现段落文本应用不同样式
 [源码](https://github.com/flutter-cn/flutter_cookbook/tree/master/avoid_overflow)
 
 [Row和Column中防止overflow错误](https://www.jianshu.com/p/17bacb6ffefc)
+
+## 背景图片
+
+全屏背景图片
+
+[源码](https://github.com/flutter-cn/flutter_cookbook/tree/master/background_image)
+
+[设置背景图片](https://www.jianshu.com/p/69aaaa9ffe08)
+
