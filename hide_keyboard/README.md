@@ -2,7 +2,5 @@
 
 A new Flutter application to show how to hide keyboard
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![hide keyboard](https://github.com/flutter-cn/flutter_cookbook/blob/master/hide_keyboard/img/keyboard.gif)
