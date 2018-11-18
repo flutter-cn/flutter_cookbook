@@ -1,8 +1,6 @@
 # focus_event
 
-A new Flutter application.
+监听输入框获取或失去焦点
 
-## Getting Started
+![失去焦点](https://github.com/flutter-cn/flutter_cookbook/blob/master/focus_event/img/focus_event.gif)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
