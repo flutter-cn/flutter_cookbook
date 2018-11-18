@@ -25,4 +25,4 @@ RichText实现段落文本应用不同样式。[源码](https://github.com/flutt
 
 ## 监听输入框焦点事件
 
-监听输入框获取或失去焦点。[源码](https://github.com/flutter-cn/flutter_cookbook/tree/master/focus_event) [简书博客](https://www.jianshu.com/p/69aaaa9ffe08)
+监听输入框获取或失去焦点。[源码](https://github.com/flutter-cn/flutter_cookbook/tree/master/focus_event) [简书博客](https://www.jianshu.com/p/f9cd631bd267)
