@@ -1,8 +1,4 @@
 # back_button_event
 
-A new Flutter application.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![back button event](https://github.com/flutter-cn/flutter_cookbook/blob/master/examples/back_button_event/img/back_event.gif)
