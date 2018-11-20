@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/focus_event.iml" filepath="$PROJECT_DIR$/focus_event.iml" />
-      <module fileurl="file://$PROJECT_DIR$/focus_event_android.iml" filepath="$PROJECT_DIR$/focus_event_android.iml" />
-    </modules>
-  </component>
-</project>
