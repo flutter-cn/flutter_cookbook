@@ -1,8 +1,7 @@
-# time_line
+# 时间轴
 
-A new Flutter application.
+带日历组件的时间轴
 
-## Getting Started
+感谢[日历插件](https://github.com/apptreesoftware/flutter_calendar)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Time Line](https://github.com/flutter-cn/flutter_cookbook/blob/master/examples/time_line/img/time_line.jpg)
