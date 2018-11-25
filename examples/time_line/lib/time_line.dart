@@ -11,7 +11,7 @@ class _TimeLinePageState extends State<TimeLinePage> {
   Widget build(BuildContext context) {
     return Container(
       margin: EdgeInsets.symmetric(
-        horizontal: 5.0,
+        horizontal: 2.0,
         vertical: 10.0,
       ),
       child: ListView(
@@ -20,7 +20,6 @@ class _TimeLinePageState extends State<TimeLinePage> {
             onSelectedRangeChange: (range) =>
                 print("Range is ${range.item1}, ${range.item2}"),
             onDateSelected: (date) => handleNewDate(date),
-              showTodayAction: false,
           ),
           Divider(
             height: 50.0,
@@ -58,22 +57,22 @@ class _TimeLinePageState extends State<TimeLinePage> {
           left: 35.0,
           child: Container(
             height: double.infinity,
-            width: 1.0,
+            width: 2.0,
             color: Colors.blue,
           ),
         ),
         Positioned(
           top: 13.0,
-          left: 22.0,
+          left: 22.5,
           child: Container(
             height: 26.0,
             width: 26.0,
             decoration: BoxDecoration(
               shape: BoxShape.circle,
-              color: Colors.white,
+              color: Colors.lightGreen,
             ),
             child: Container(
-              margin: EdgeInsets.all(5.0),
+              margin: EdgeInsets.all(3.0),
               height: 26.0,
               width: 26.0,
               decoration:
