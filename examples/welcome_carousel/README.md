@@ -1,8 +1,4 @@
 # welcome_carousel
 
-A new Flutter application.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![欢迎页幻灯片](https://github.com/flutter-cn/flutter_cookbook/blob/master/examples/welcome_carousel/img/welcome_slider.gif)
